@@ -1,19 +1,28 @@
 {
   "name": "AsynchroniousTechnologies",
   "version": "1.0.0",
-  "description": "",
+  "description": "Asychronious technologies",
   "main": "index.js",
   "bin": {
     "AsynchroniousTechnologies": "start.js"
   },
   "dependencies": {
     "connect": "^3.3.3",
-    "express": "^4.10.2"
+    "express": "^4.10.2",
+    "jade": "^1.7.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Pesnel",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CrazyJarJar/Simple-Application.git"
+  },
+  "author": "Martin PESNEL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrazyJarJar/Simple-Application/issues"
+  },
+  "homepage": "https://github.com/CrazyJarJar/Simple-Application"
 }
