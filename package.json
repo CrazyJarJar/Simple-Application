@@ -1,0 +1,19 @@
+{
+  "name": "AsynchroniousTechnologies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "AsynchroniousTechnologies": "start.js"
+  },
+  "dependencies": {
+    "connect": "^3.3.3",
+    "express": "^4.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pesnel",
+  "license": "ISC"
+}
