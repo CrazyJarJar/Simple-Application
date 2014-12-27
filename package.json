@@ -9,7 +9,17 @@
   "dependencies": {
     "connect": "^3.3.3",
     "express": "^4.10.2",
-    "jade": "^1.7.0"
+    "jade": "^1.7.0",
+    "body-parser":"1.0.0",
+    "bootstap":"1.0.0",
+    "cheerio":"1.0.0",
+    "leveldown":"0.10.1",
+    "levelup":"1.0.0",
+    "mongoose":"1.0.0",
+    "serve-favicons":"1.0.0",
+    "simple-node-db":"1.0.0",
+    "simple-node-logger":"1.0.0",
+    "errorhandler":"1.0.0"
   },
   "devDependencies": {},
   "scripts": {
