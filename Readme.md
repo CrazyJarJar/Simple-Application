@@ -17,3 +17,6 @@ Use
 
 To add users, you have to add them in the code directly, you have an example at the beginning of lib/DataBaseDir/mydb.js
 line 18 to 37. If you already have a file, just execute the command addUsers in app.js
+
+
+Project by Pesnel Martin and Malbosc Edouard
